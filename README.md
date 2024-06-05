@@ -1,8 +1,7 @@
 # MNIST_cGAN
-# GAN for Generating Architectural Drawings
+# GAN for Generating Numbers using MNIST
 
-This project leverages Generative Adversarial Networks (GANs) to generate precise architectural drawings, ensuring compliance with the Saudi Building Code. The model can be trained on various architectural styles or building types to streamline the design process for homeowners and real estate developers.
-
+This project leverages Generative Adversarial Networks (GANs) to generate precise Numbers.
 ## Table of Contents
 
 - [Installation](#installation)
